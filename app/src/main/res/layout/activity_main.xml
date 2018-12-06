@@ -64,7 +64,6 @@
         android:layout_marginBottom="8dp"
         android:text="@string/age"
         android:textSize="20sp"
-        android:ut_editor_absoluteX="29dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="0.064"
